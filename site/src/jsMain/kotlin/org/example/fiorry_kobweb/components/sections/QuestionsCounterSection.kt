@@ -36,7 +36,7 @@ val QuestionsCounterStyle = CssStyle {
         Modifier
             .styleModifier {
                 property("width", "calc(100% - 36px)")
-                property("margin", "20px 18px 0px 18px")//топ право низ лево
+                property("margin", "10px 18px 0px 18px")//топ право низ лево
 
             }
     }

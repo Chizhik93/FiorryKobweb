@@ -39,7 +39,7 @@ fun MainButton(
 ) {
     Box(
         modifier = MainButtonStyle.toModifier()
-            .margin(top = marginTop)
+            .margin(top = marginTop, bottom = 20.px)
             .height(54.px)
             .styleModifier {
                 background("linear-gradient(90deg, #CA46CD, #A06EFC)")

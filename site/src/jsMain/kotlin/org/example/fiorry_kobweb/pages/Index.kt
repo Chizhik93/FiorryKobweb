@@ -35,7 +35,7 @@ fun HomePage() {
             TabBar()
             Image(
                 src = "ic_start_image.png",
-                modifier = Modifier.width(40.percent).maxWidth(500.px).margin(top = 20.px)
+                modifier = Modifier.width(60.percent).maxWidth(500.px).margin(top = 20.px)
             )
             PageTitle("Find your transgender date today")
             PageText("Our community count 35,000+ transgender people. Only verified profiles and 100% private connections")

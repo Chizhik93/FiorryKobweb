@@ -16,7 +16,7 @@ enum class StringRes (
 val gendersList = listOf(
     "Trans woman",
     "Trans man",
-    "Crossdresser",
+//    "Crossdresser",
     "Non-binary",
     "Queer",
     "Сis woman",

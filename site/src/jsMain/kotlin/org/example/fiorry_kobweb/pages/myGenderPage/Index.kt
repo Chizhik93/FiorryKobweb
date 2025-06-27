@@ -14,6 +14,7 @@ import org.example.fiorry_kobweb.components.sections.PageTitle
 import org.example.fiorry_kobweb.components.sections.QuestionsCounterSection
 import org.example.fiorry_kobweb.components.sections.TabBar
 import org.example.fiorry_kobweb.components.widgets.MainButton
+import org.jetbrains.compose.web.css.px
 
 @Page("/myGender")
 @Composable
@@ -30,7 +31,7 @@ fun MyGenderPage(){
 
             GenderGridLayout(true)
 
-            MainButton("Continue") { nav.router.navigateTo("/interestedIn") }
+            MainButton("Continue", marginTop = 0.px) { nav.router.navigateTo("/interestedIn") }
         }
     }
 }
