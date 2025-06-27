@@ -1,6 +1,6 @@
 site:
   title: "Fiorry"
-  pathPrefix: "/FiorryKobweb"
+  basePath: "FiorryKobweb"
 server:
   files:
     dev:
