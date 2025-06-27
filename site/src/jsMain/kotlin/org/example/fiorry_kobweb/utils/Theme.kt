@@ -1,4 +1,4 @@
-package org.example.fiorrykobweb.utils
+package org.example.fiorry_kobweb.utils
 
 import org.jetbrains.compose.web.css.CSSColorValue
 import org.jetbrains.compose.web.css.rgb

@@ -22,7 +22,7 @@ import com.varabyte.kobweb.compose.ui.styleModifier
 import com.varabyte.kobweb.compose.ui.toAttrs
 import com.varabyte.kobweb.silk.style.CssStyle
 import com.varabyte.kobweb.silk.style.toModifier
-import org.example.fiorrykobweb.utils.Theme
+import org.example.fiorry_kobweb.utils.Theme
 import org.jetbrains.compose.web.css.DisplayStyle
 import org.jetbrains.compose.web.css.JustifyContent
 import org.jetbrains.compose.web.css.px
