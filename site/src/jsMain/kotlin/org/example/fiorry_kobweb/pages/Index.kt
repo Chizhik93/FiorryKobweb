@@ -39,7 +39,7 @@ fun HomePage() {
             )
             PageTitle("Find your transgender date today")
             PageText("Our community count 35,000+ transgender people. Only verified profiles and 100% private connections")
-            MainButton("Get started"){ nav.router.navigateTo("myGender") }
+            MainButton("Get started"){ nav.router.navigateTo("/myGender") }
         }
     }
 }

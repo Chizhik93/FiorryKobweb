@@ -1,6 +1,6 @@
 site:
   title: "Fiorry"
-
+  pathPrefix: "/FiorryKobweb"
 server:
   files:
     dev:

@@ -31,8 +31,8 @@ import org.example.fiorry_kobweb.components.sections.PageTitle
 import org.example.fiorry_kobweb.components.sections.QuestionsCounterSection
 import org.example.fiorry_kobweb.components.sections.TabBar
 import org.example.fiorry_kobweb.components.widgets.MainButton
+import org.example.fiorry_kobweb.utils.Theme
 import org.example.fiorry_kobweb.utils.gendersList
-import org.example.fiorrykobweb.utils.Theme
 import org.jetbrains.compose.web.css.Color
 import org.jetbrains.compose.web.css.LineStyle
 import org.jetbrains.compose.web.css.percent
