@@ -1,0 +1,14 @@
+site:
+  title: "Fiorry"
+
+server:
+  files:
+    dev:
+      contentRoot: "build/processedResources/js/main/public"
+      script: "build/kotlin-webpack/js/developmentExecutable/fiorry_kobweb.js"
+      api: "build/libs/fiorry_kobweb.jar"
+    prod:
+      script: "build/kotlin-webpack/js/productionExecutable/fiorry_kobweb.js"
+      siteRoot: ".kobweb/site"
+
+  port: 8080
